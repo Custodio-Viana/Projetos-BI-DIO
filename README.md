@@ -6,7 +6,7 @@ Este documento detalha a execução do desafio prático proposto no curso de Pow
 O objetivo principal foi consolidar o conhecimento em criação de visuais, manipulação de campos e publicação de relatórios, utilizando a amostra de dados (Financial Sample) fornecida pela Microsoft via repositório GitHub.
 
 ## 2. Processamento de Dados
-- **Fonte de Dados:** Repositório GitHub (Financial Sample).
+- **Fonte de Dados:** (Repositório GitHub) [https://github.com/julianazanelatto/power_bi_analyst] (Financial Sample).
 - **Ferramenta:** Power BI Desktop.
 - **Ações Realizadas:**
     - Importação do arquivo de dados.
